@@ -3,4 +3,4 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 30 L01 Reading guidelines, completing chores like registering and joining discord
 ZCZC W00 100 L02 ZOOM - 30 Aug
-ZCZC W00 15 L03 Github logging
+ZCZC W00 20 L03 Github related setting up page
