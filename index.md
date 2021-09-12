@@ -2,6 +2,8 @@
 layout: "layout"
 ---
 
-Hello!
+Welcome to WHITE SPACE.
+[Repo](https://github.com/michelleshie/os212)
+[Log](https://github.com/michelleshie/os212/blob/main/TXT/mylog.txt)
 
-This is {{ site.title }} (Operating Systems 2021-2) and I am Michelle Shie.
+Michelle Shie (1906293165)
