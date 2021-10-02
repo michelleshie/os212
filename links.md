@@ -12,3 +12,6 @@ Some extra serotonin while getting familiar with Linux! ..or just simply if you 
 
 3. [File Systems Architecture Explained](https://www.freecodecamp.org/news/file-systems-architecture-explained/)<br>
 Kinda sums up File Systems, kinda.
+
+4. [AWKs](https://www.gnu.org/software/gawk/manual/gawk.html)<br>
+The full package.
