@@ -15,3 +15,11 @@ Kinda sums up File Systems, kinda.
 
 4. [AWKs](https://www.gnu.org/software/gawk/manual/gawk.html)<br>
 The full package.
+
+5. [How to use vi](https://staff.washington.edu/rells/R110/help_vi.html)<br>
+Clean page with no UI but rich in info.
+
+6. [C Cheatsheet](https://developerinsider.co/c-programming-language-cheat-sheet/)<br>
+Brief article about C basics but not bad.
+
+I'm sorry if these are too little I'd hate to put multiple links that only span a few pages tank yew for visiting my page
