@@ -22,4 +22,7 @@ Clean page with no UI but rich in info.
 6. [C Cheatsheet](https://developerinsider.co/c-programming-language-cheat-sheet/)<br>
 Brief article about C basics but not bad.
 
+7. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
+Clean notes about Threads and Concurrency.
+
 I'm sorry if these are too little I'd hate to put multiple links that only span a few pages tank yew for visiting my page
