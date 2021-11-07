@@ -25,4 +25,7 @@ Brief article about C basics but not bad.
 7. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
 Clean notes about Threads and Concurrency.
 
+8. [Process Synchronization Notes](http://www2.cs.uregina.ca/~hamilton/courses/330/notes/synchro/synchro.html)<br>
+Also includes notes of the Critical Section problem, Semaphores, and Deadlocks.
+
 I'm sorry if these are too little I'd hate to put multiple links that only span a few pages tank yew for visiting my page
