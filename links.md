@@ -31,4 +31,7 @@ Also includes notes of the Critical Section problem, Semaphores, and Deadlocks.
 9. [Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm#:~:text=Definition,of%20a%20Multiprogramming%20operating%20systems.)<br>
 Nice article that can be of help in understanding process scheduling.
 
+10. [Anatomy of Linux](https://developer.ibm.com/tutorials/l-linux-filesystem/)<br>
+Explores the layers of Linux file system.
+
 I'm sorry if these are too little I'd hate to put multiple links that only span a few pages tank yew for visiting my page
